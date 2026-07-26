@@ -1,8 +1,5 @@
 console.log("Hello");
 
-// add new main - form
+// add new features - form
 
-//mistake
-
-//add new feature - button
 
